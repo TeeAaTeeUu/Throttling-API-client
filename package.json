@@ -1,0 +1,12 @@
+{
+  "name": "Throttling-API-client",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "body-parser": "^1.8.2",
+    "express": "4.9.0",
+    "limiter": "^1.0.5",
+    "q": "^1.0.1",
+    "request": "2.42.0"
+  }
+}
